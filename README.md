@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to be FullStack Developer
 - 📫 How to reach me ?
 https://www.instagram.com/sir.mrdp
-https://www.twitter.com/Alizikhoo
+
 
 <!---
 AliMoradpour/AliMoradpour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
